@@ -9,3 +9,13 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 ## <img src="https://user-images.githubusercontent.com/86669668/171820956-cf171296-cc01-4827-ac4a-45ff3f91ff13.gif" width="15"/> List of Python Programs
 
 1. [Tic Tac Toe GUI Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/tic_tac_toe_gui_game.py)
+2. [Stone Paper Scissors GUI Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/stone_paper_scissor_gui.py)
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me
+
+<p align="center">
+<a href="mailto:sarath2375@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sarath-p-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
