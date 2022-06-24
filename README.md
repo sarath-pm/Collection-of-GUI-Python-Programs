@@ -8,8 +8,16 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 
 ## <img src="https://user-images.githubusercontent.com/86669668/171820956-cf171296-cc01-4827-ac4a-45ff3f91ff13.gif" width="15"/> List of Python Programs
 
-1. [Tic Tac Toe GUI Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/tic_tac_toe_gui_game.py)
-2. [Stone Paper Scissors GUI Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/stone_paper_scissor_gui.py)
+1. [Tic Tac Toe Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/tic_tac_toe_gui_game.py)
+2. [Stone Paper Scissors Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/stone_paper_scissor_gui.py)
+3. [Number Guessing Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/number_guessing_game.py)
+4. [Guess the Color of the Word Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/color_guessing_game.py)
+5. [Snake Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/snake_game.py)
+6. [Connect Dots & Boxes Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/connect_dots%26boxes.py)
+7. [Egg Catcher Game](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/egg_catcher_game.py)
+8. [Weight Converter](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/weight_converter_gui.py)
+9. [Calculate your Age](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/age_calculator.py)
+10. [Calculator](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/calculator.py)
 
 <br>
 
