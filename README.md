@@ -22,6 +22,7 @@ Visit [here](https://github.com/s-a-r-a-t-h/Collection-of-Python-Programs/tree/m
 12. [Digital Clock](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/digital_clock.py)
 13. [Encrypt & Decrypt Your Messages](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/encrypt_decrypt.py)
 14. [Fidget Spinner](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/fidget_spinner.py)
+15. [Music Player](https://github.com/sarath-pm/Collection-of-GUI-Python-Programs/blob/main/music_player.py)
 
 <br>
 
